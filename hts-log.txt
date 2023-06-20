@@ -1,0 +1,541 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 20 Jun 2023 10:28:06 at https://nicolearcherpsyd.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -W https://nicolearcherpsyd.com/ -O "/home/darcher/websites/nicolearcherpsyd.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:29:03	Warning: 	Note: due to secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+10:29:13	Warning: 	Moved Permanently for s.w.org/robots.txt
+10:29:13	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+10:29:13	Warning: 	Moved Permanently for s.w.org/
+10:29:13	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+10:29:14	Warning: 	Moved Permanently for v0.wordpress.com/robots.txt
+10:29:14	Warning: 	Redirected link is identical because of 'URL Hack' option: v0.wordpress.com/robots.txt and https://v0.wordpress.com/robots.txt
+10:29:14	Warning: 	Warning moved treated for v0.wordpress.com/robots.txt (real one is https://v0.wordpress.com/robots.txt)
+10:29:14	Warning: 	Moved Permanently for v0.wordpress.com/
+10:29:14	Warning: 	Redirected link is identical because of 'URL Hack' option: v0.wordpress.com/ and https://v0.wordpress.com/
+10:29:14	Warning: 	File has moved from v0.wordpress.com/ to https://v0.wordpress.com/
+10:29:15	Warning: 	Moved Permanently for widgets.wp.com/
+10:29:15	Warning: 	File has moved from widgets.wp.com/ to https://wordpress.com
+10:29:16	Warning: 	Moved Permanently for s0.wp.com/
+10:29:16	Warning: 	File has moved from s0.wp.com/ to https://wordpress.com
+10:29:17	Warning: 	Note: due to 0.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+10:29:17	Warning: 	Found for 0.gravatar.com/
+10:29:17	Warning: 	File has moved from 0.gravatar.com/ to https://en.gravatar.com/
+10:29:18	Warning: 	Note: due to 1.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+10:29:18	Warning: 	Found for 1.gravatar.com/
+10:29:18	Warning: 	File has moved from 1.gravatar.com/ to https://en.gravatar.com/
+10:29:19	Warning: 	Note: due to 2.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+10:29:19	Warning: 	Found for 2.gravatar.com/
+10:29:19	Warning: 	File has moved from 2.gravatar.com/ to https://en.gravatar.com/
+10:29:20	Error: 	"Bad Request" (400) at link i0.wp.com/ (from https://nicolearcherpsyd.com/)
+10:29:20	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=6
+10:29:20	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=6 to https://nicolearcherpsyd.com/
+10:29:21	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://nicolearcherpsyd.com/)
+10:29:22	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://nicolearcherpsyd.com/)
+10:29:23	Warning: 	Moved Permanently for nicolearcherpsyd.com/robots.txt
+10:29:23	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/robots.txt and https://nicolearcherpsyd.com/robots.txt
+10:29:23	Warning: 	Warning moved treated for nicolearcherpsyd.com/robots.txt (real one is https://nicolearcherpsyd.com/robots.txt)
+10:29:23	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:29:23	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:29:23	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:29:23	Error: 	"Method Not Allowed" (405) at link https://nicolearcherpsyd.com/xmlrpc.php (from https://nicolearcherpsyd.com/)
+10:30:48	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/fonts.googleapis.com/css2db7d.css
+10:30:48	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/fonts.googleapis.com/css32b6.css
+10:30:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=9C349550011754AC328871A2A6EF72D8
+10:30:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=9C349550011754AC328871A2A6EF72D8 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D9C349550011754AC328871A2A6EF72D8
+10:30:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=8
+10:30:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=8 to https://nicolearcherpsyd.com/about-me/
+10:30:48	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:30:48	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:30:48	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:30:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=2844
+10:30:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=2844 to https://nicolearcherpsyd.com/services/
+10:30:48	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=7FFD69BFEA96713A2BBC67A051381C56
+10:30:48	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=7FFD69BFEA96713A2BBC67A051381C56 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=7FFD69BFEA96713A2BBC67A051381C56
+10:30:48	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=7FFD69BFEA96713A2BBC67A051381C56 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=7FFD69BFEA96713A2BBC67A051381C56
+10:30:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=3862
+10:30:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=3862 to https://nicolearcherpsyd.com/online-therapy/
+10:30:48	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=3AA5B6CCA1A784702BD41AC82A0763EE
+10:30:48	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=3AA5B6CCA1A784702BD41AC82A0763EE and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3AA5B6CCA1A784702BD41AC82A0763EE
+10:30:48	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=3AA5B6CCA1A784702BD41AC82A0763EE to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3AA5B6CCA1A784702BD41AC82A0763EE
+10:30:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=16
+10:30:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=16 to https://nicolearcherpsyd.com/faqs/
+10:30:59	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=94D19FB6538F5011BF65AA51B3AB2C2E
+10:30:59	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=94D19FB6538F5011BF65AA51B3AB2C2E and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=94D19FB6538F5011BF65AA51B3AB2C2E
+10:30:59	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=94D19FB6538F5011BF65AA51B3AB2C2E to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=94D19FB6538F5011BF65AA51B3AB2C2E
+10:30:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=106
+10:30:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=106 to https://nicolearcherpsyd.com/fees/
+10:30:59	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=65E46F7DB4453345C6AB70B52EA2A304
+10:30:59	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=65E46F7DB4453345C6AB70B52EA2A304 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=65E46F7DB4453345C6AB70B52EA2A304
+10:30:59	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=65E46F7DB4453345C6AB70B52EA2A304 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=65E46F7DB4453345C6AB70B52EA2A304
+10:30:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=14
+10:30:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=14 to https://nicolearcherpsyd.com/appointment-request/
+10:30:59	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=CEED05A58477512FC74FEBAD9613A7F5
+10:30:59	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=CEED05A58477512FC74FEBAD9613A7F5 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=CEED05A58477512FC74FEBAD9613A7F5
+10:30:59	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=CEED05A58477512FC74FEBAD9613A7F5 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=CEED05A58477512FC74FEBAD9613A7F5
+10:30:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=2659
+10:30:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=2659 to https://nicolearcherpsyd.com/recent-news/
+10:30:59	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=3C33FF2481AA86E1B9103074E98A88F0
+10:30:59	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=3C33FF2481AA86E1B9103074E98A88F0 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3C33FF2481AA86E1B9103074E98A88F0
+10:30:59	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=3C33FF2481AA86E1B9103074E98A88F0 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3C33FF2481AA86E1B9103074E98A88F0
+10:31:11	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=18
+10:31:11	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=18 to https://nicolearcherpsyd.com/mental-health-links/
+10:31:11	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=7F61C504DC8D07F62FA0E8E17B10B123
+10:31:11	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=7F61C504DC8D07F62FA0E8E17B10B123 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=7F61C504DC8D07F62FA0E8E17B10B123
+10:31:11	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=7F61C504DC8D07F62FA0E8E17B10B123 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=7F61C504DC8D07F62FA0E8E17B10B123
+10:31:22	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:31:22	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:31:22	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:31:32	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/author/nclrchr75205/
+10:31:32	Warning: 	File has moved from https://nicolearcherpsyd.com/author/nclrchr75205/ to https://nicolearcherpsyd.com
+10:31:58	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=12
+10:31:58	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=12 to https://nicolearcherpsyd.com/contact/
+10:31:58	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=F298B8083FFAC2653BBC63C10A88A67F
+10:31:58	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=F298B8083FFAC2653BBC63C10A88A67F and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=F298B8083FFAC2653BBC63C10A88A67F
+10:31:58	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=F298B8083FFAC2653BBC63C10A88A67F to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=F298B8083FFAC2653BBC63C10A88A67F
+10:31:58	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:31:58	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=5B5F675C65FEDC1AE91204DB9A60CDE5 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D5B5F675C65FEDC1AE91204DB9A60CDE5
+10:31:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=7FFD69BFEA96713A2BBC67A051381C56
+10:31:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=7FFD69BFEA96713A2BBC67A051381C56 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D7FFD69BFEA96713A2BBC67A051381C56
+10:32:00	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3AA5B6CCA1A784702BD41AC82A0763EE
+10:32:00	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3AA5B6CCA1A784702BD41AC82A0763EE to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D3AA5B6CCA1A784702BD41AC82A0763EE
+10:32:09	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=94D19FB6538F5011BF65AA51B3AB2C2E
+10:32:09	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=94D19FB6538F5011BF65AA51B3AB2C2E to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D94D19FB6538F5011BF65AA51B3AB2C2E
+10:32:09	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=65E46F7DB4453345C6AB70B52EA2A304
+10:32:09	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=65E46F7DB4453345C6AB70B52EA2A304 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D65E46F7DB4453345C6AB70B52EA2A304
+10:32:11	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=CEED05A58477512FC74FEBAD9613A7F5
+10:32:11	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=CEED05A58477512FC74FEBAD9613A7F5 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DCEED05A58477512FC74FEBAD9613A7F5
+10:32:12	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3C33FF2481AA86E1B9103074E98A88F0
+10:32:12	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3C33FF2481AA86E1B9103074E98A88F0 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D3C33FF2481AA86E1B9103074E98A88F0
+10:32:22	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=7F61C504DC8D07F62FA0E8E17B10B123
+10:32:22	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=7F61C504DC8D07F62FA0E8E17B10B123 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D7F61C504DC8D07F62FA0E8E17B10B123
+10:32:22	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=BA7D53ED71B0735FA21CD599426CEEE2
+10:32:22	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=BA7D53ED71B0735FA21CD599426CEEE2 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=BA7D53ED71B0735FA21CD599426CEEE2
+10:32:22	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=BA7D53ED71B0735FA21CD599426CEEE2 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=BA7D53ED71B0735FA21CD599426CEEE2
+10:32:38	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/author/nicolearcher/
+10:32:38	Warning: 	File has moved from https://nicolearcherpsyd.com/author/nicolearcher/ to https://nicolearcherpsyd.com
+10:32:56	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=86E9D1805150EABA599015BA97489DBE
+10:32:56	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=86E9D1805150EABA599015BA97489DBE to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D86E9D1805150EABA599015BA97489DBE
+10:32:57	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4150
+10:32:57	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4150 to https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/
+10:32:57	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=76BE7D5753C0144BC70D8977066883D6
+10:32:57	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=76BE7D5753C0144BC70D8977066883D6 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=76BE7D5753C0144BC70D8977066883D6
+10:32:57	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=76BE7D5753C0144BC70D8977066883D6 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=76BE7D5753C0144BC70D8977066883D6
+10:33:07	Warning: 	Found for https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/?share=twitter
+10:33:07	Warning: 	File has moved from https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/?share=twitter to https://twitter.com/intent/tweet?text=3%20Common%20Misconceptions%20About%20Therapy&url=https%3A%2F%2Fnicolearcherpsyd.com%2F3-common-misconceptions-about-therapy%2F
+10:33:07	Warning: 	Found for https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/?share=facebook
+10:33:07	Warning: 	File has moved from https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F3-common-misconceptions-about-therapy%2F&t=3%20Common%20Misconceptions%20About%20Therapy
+10:33:07	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=021CB6385D59AEE270689DB4615D7B9B
+10:33:07	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=021CB6385D59AEE270689DB4615D7B9B and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=021CB6385D59AEE270689DB4615D7B9B
+10:33:07	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=021CB6385D59AEE270689DB4615D7B9B to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=021CB6385D59AEE270689DB4615D7B9B
+10:33:07	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4132
+10:33:07	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4132 to https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/
+10:33:07	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=0B1685C6592C546A85B12A34A65A9796
+10:33:07	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=0B1685C6592C546A85B12A34A65A9796 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=0B1685C6592C546A85B12A34A65A9796
+10:33:07	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=0B1685C6592C546A85B12A34A65A9796 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=0B1685C6592C546A85B12A34A65A9796
+10:33:07	Warning: 	Found for https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/?share=twitter
+10:33:07	Warning: 	File has moved from https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/?share=twitter to https://twitter.com/intent/tweet?text=3%20Ways%20Therapy%20Helps%20You%20Address%20Anxiety&url=https%3A%2F%2Fnicolearcherpsyd.com%2F3-ways-therapy-helps-you-address-anxiety%2F
+10:33:07	Warning: 	Found for https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/?share=facebook
+10:33:07	Warning: 	File has moved from https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F3-ways-therapy-helps-you-address-anxiety%2F&t=3%20Ways%20Therapy%20Helps%20You%20Address%20Anxiety
+10:33:07	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=EA57E108E8399D4828C1CA94ECABB5C1
+10:33:07	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=EA57E108E8399D4828C1CA94ECABB5C1 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=EA57E108E8399D4828C1CA94ECABB5C1
+10:33:07	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=EA57E108E8399D4828C1CA94ECABB5C1 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=EA57E108E8399D4828C1CA94ECABB5C1
+10:33:08	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4122
+10:33:08	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4122 to https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/
+10:33:08	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=84C93C51F45896315C5491E71DC075B7
+10:33:08	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=84C93C51F45896315C5491E71DC075B7 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=84C93C51F45896315C5491E71DC075B7
+10:33:08	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=84C93C51F45896315C5491E71DC075B7 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=84C93C51F45896315C5491E71DC075B7
+10:33:19	Warning: 	Found for https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/?share=twitter
+10:33:19	Warning: 	File has moved from https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/?share=twitter to https://twitter.com/intent/tweet?text=5%20Ways%20to%20Learn%20to%20Like%20Yourself%20Better&url=https%3A%2F%2Fnicolearcherpsyd.com%2F5-ways-to-learn-to-like-yourself-better%2F
+10:33:19	Warning: 	Found for https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/?share=facebook
+10:33:19	Warning: 	File has moved from https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F5-ways-to-learn-to-like-yourself-better%2F&t=5%20Ways%20to%20Learn%20to%20Like%20Yourself%20Better
+10:33:19	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=6E34DC5419FCEDA397A2987DB67E2987
+10:33:19	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=6E34DC5419FCEDA397A2987DB67E2987 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E34DC5419FCEDA397A2987DB67E2987
+10:33:19	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=6E34DC5419FCEDA397A2987DB67E2987 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E34DC5419FCEDA397A2987DB67E2987
+10:33:20	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4105
+10:33:20	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4105 to https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/
+10:33:20	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=5C07A51BFF52D2147D2941A0DC0E63F2
+10:33:20	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=5C07A51BFF52D2147D2941A0DC0E63F2 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5C07A51BFF52D2147D2941A0DC0E63F2
+10:33:20	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=5C07A51BFF52D2147D2941A0DC0E63F2 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5C07A51BFF52D2147D2941A0DC0E63F2
+10:33:20	Warning: 	Found for https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/?share=twitter
+10:33:20	Warning: 	File has moved from https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/?share=twitter to https://twitter.com/intent/tweet?text=How%20To%20Stop%20Beating%20Yourself%20Up&url=https%3A%2F%2Fnicolearcherpsyd.com%2Fhow-to-stop-beating-yourself-up%2F
+10:33:20	Warning: 	Found for https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/?share=facebook
+10:33:20	Warning: 	File has moved from https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2Fhow-to-stop-beating-yourself-up%2F&t=How%20To%20Stop%20Beating%20Yourself%20Up
+10:33:20	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4096
+10:33:20	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4096 to https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/
+10:33:20	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=202BACC697DECB37DB749801404E7688
+10:33:20	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=202BACC697DECB37DB749801404E7688 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=202BACC697DECB37DB749801404E7688
+10:33:20	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=202BACC697DECB37DB749801404E7688 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=202BACC697DECB37DB749801404E7688
+10:33:21	Warning: 	Found for https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/?share=twitter
+10:33:21	Warning: 	File has moved from https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/?share=twitter to https://twitter.com/intent/tweet?text=4%20Ways%20to%20Change%20Your%20Thoughts%20and%20Relieve%20Depression&url=https%3A%2F%2Fnicolearcherpsyd.com%2F4-ways-to-change-your-thoughts-and-relieve-depression%2F
+10:33:21	Warning: 	Found for https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/?share=facebook
+10:33:21	Warning: 	File has moved from https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F4-ways-to-change-your-thoughts-and-relieve-depression%2F&t=4%20Ways%20to%20Change%20Your%20Thoughts%20and%20Relieve%20Depression
+10:33:21	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=D64D9949AF8A83833655E1BF2E1BB025
+10:33:21	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=D64D9949AF8A83833655E1BF2E1BB025 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=D64D9949AF8A83833655E1BF2E1BB025
+10:33:21	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=D64D9949AF8A83833655E1BF2E1BB025 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=D64D9949AF8A83833655E1BF2E1BB025
+10:33:31	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=57F0E259590D80C7327133D3E010AB16
+10:33:31	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=57F0E259590D80C7327133D3E010AB16 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=57F0E259590D80C7327133D3E010AB16
+10:33:31	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=57F0E259590D80C7327133D3E010AB16 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=57F0E259590D80C7327133D3E010AB16
+10:33:37	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=F298B8083FFAC2653BBC63C10A88A67F
+10:33:37	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=F298B8083FFAC2653BBC63C10A88A67F to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DF298B8083FFAC2653BBC63C10A88A67F
+10:33:37	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=BA7D53ED71B0735FA21CD599426CEEE2
+10:33:37	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=BA7D53ED71B0735FA21CD599426CEEE2 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DBA7D53ED71B0735FA21CD599426CEEE2
+10:33:38	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4026
+10:33:38	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4026 to https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/
+10:33:38	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=8B06921E39C5A2E95BCADDCAAEE158CC
+10:33:38	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=8B06921E39C5A2E95BCADDCAAEE158CC and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=8B06921E39C5A2E95BCADDCAAEE158CC
+10:33:38	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=8B06921E39C5A2E95BCADDCAAEE158CC to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=8B06921E39C5A2E95BCADDCAAEE158CC
+10:33:38	Warning: 	Found for https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/?share=twitter
+10:33:38	Warning: 	File has moved from https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/?share=twitter to https://twitter.com/intent/tweet?text=5%20Signs%20That%20You%20Might%20be%20Struggling%20with%20Anxiety&url=https%3A%2F%2Fnicolearcherpsyd.com%2F5-signs-that-you-might-be-struggling-with-anxiety%2F
+10:33:38	Warning: 	Found for https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/?share=facebook
+10:33:38	Warning: 	File has moved from https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F5-signs-that-you-might-be-struggling-with-anxiety%2F&t=5%20Signs%20That%20You%20Might%20be%20Struggling%20with%20Anxiety
+10:33:38	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4008
+10:33:38	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4008 to https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/
+10:33:38	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=26EACB6A5C6352EFC912EB2F575E3A42
+10:33:38	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=26EACB6A5C6352EFC912EB2F575E3A42 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=26EACB6A5C6352EFC912EB2F575E3A42
+10:33:38	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=26EACB6A5C6352EFC912EB2F575E3A42 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=26EACB6A5C6352EFC912EB2F575E3A42
+10:33:48	Warning: 	Found for https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/?share=twitter
+10:33:48	Warning: 	File has moved from https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/?share=twitter to https://twitter.com/intent/tweet?text=Set%20Yourself%20Up%20For%20Success%3A%20The%20Importance%20of%20Goal%20Setting%20to%20Improve%20Self%20Esteem&url=https%3A%2F%2Fnicolearcherpsyd.com%2Fset-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem%2F
+10:33:48	Warning: 	Found for https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/?share=facebook
+10:33:48	Warning: 	File has moved from https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2Fset-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem%2F&t=Set%20Yourself%20Up%20For%20Success%3A%20The%20Importance%20of%20Goal%20Setting%20to%20Improve%20Self%20Esteem
+10:33:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3993
+10:33:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3993 to https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/
+10:33:48	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=46E3DD5739AD7DD19B55143BDF6B2B60
+10:33:48	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=46E3DD5739AD7DD19B55143BDF6B2B60 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=46E3DD5739AD7DD19B55143BDF6B2B60
+10:33:48	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=46E3DD5739AD7DD19B55143BDF6B2B60 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=46E3DD5739AD7DD19B55143BDF6B2B60
+10:33:48	Warning: 	Found for https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/?share=twitter
+10:33:48	Warning: 	File has moved from https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/?share=twitter to https://twitter.com/intent/tweet?text=Handling%20Perfectionism%20Related%20Anxiety%20During%20the%20Holidays&url=https%3A%2F%2Fnicolearcherpsyd.com%2Fhandling-perfectionism-related-anxiety-holidays%2F
+10:33:48	Warning: 	Found for https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/?share=facebook
+10:33:48	Warning: 	File has moved from https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2Fhandling-perfectionism-related-anxiety-holidays%2F&t=Handling%20Perfectionism%20Related%20Anxiety%20During%20the%20Holidays
+10:33:48	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=3B4B2D82E85265F036E041F5C332C690
+10:33:48	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=3B4B2D82E85265F036E041F5C332C690 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3B4B2D82E85265F036E041F5C332C690
+10:33:48	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=3B4B2D82E85265F036E041F5C332C690 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3B4B2D82E85265F036E041F5C332C690
+10:33:49	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:33:49	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:33:49	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:33:49	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:33:49	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:33:49	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:34:00	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:34:00	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:34:00	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:34:00	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:34:00	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:34:00	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:34:01	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3949
+10:34:01	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3949 to https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/
+10:34:01	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=4AAA3CF32168AF89033AD92925182841
+10:34:01	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=4AAA3CF32168AF89033AD92925182841 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=4AAA3CF32168AF89033AD92925182841
+10:34:01	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=4AAA3CF32168AF89033AD92925182841 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=4AAA3CF32168AF89033AD92925182841
+10:34:02	Warning: 	Found for https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=twitter
+10:34:02	Warning: 	File has moved from https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=twitter to https://twitter.com/intent/tweet?text=Managing%20Stress%20and%20Mental%20Health%20in%20Graduate%20School&url=https%3A%2F%2Fnicolearcherpsyd.com%2Fmanaging-stress-mental-health-graduate-school%2F
+10:34:02	Warning: 	Found for https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=facebook
+10:34:02	Warning: 	File has moved from https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2Fmanaging-stress-mental-health-graduate-school%2F&t=Managing%20Stress%20and%20Mental%20Health%20in%20Graduate%20School
+10:34:02	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=52E25ACA0642522711ED4CB43C4663B3
+10:34:02	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=52E25ACA0642522711ED4CB43C4663B3 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=52E25ACA0642522711ED4CB43C4663B3
+10:34:02	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=52E25ACA0642522711ED4CB43C4663B3 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=52E25ACA0642522711ED4CB43C4663B3
+10:34:12	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3939
+10:34:12	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3939 to https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/
+10:34:12	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=3F0E2FBF5EC5B443B280F48B9CA77F5D
+10:34:12	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=3F0E2FBF5EC5B443B280F48B9CA77F5D and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3F0E2FBF5EC5B443B280F48B9CA77F5D
+10:34:12	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=3F0E2FBF5EC5B443B280F48B9CA77F5D to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=3F0E2FBF5EC5B443B280F48B9CA77F5D
+10:34:12	Warning: 	Found for https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/?share=twitter
+10:34:12	Warning: 	File has moved from https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/?share=twitter to https://twitter.com/intent/tweet?text=Treat%20Yourself%3A%20The%20Importance%20of%20Putting%20Yourself%20First%20%26%20Self%20Care&url=https%3A%2F%2Fnicolearcherpsyd.com%2Ftreat-yourself-the-importance-of-putting-yourself-first-self-care%2F
+10:34:12	Warning: 	Found for https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/?share=facebook
+10:34:12	Warning: 	File has moved from https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2Ftreat-yourself-the-importance-of-putting-yourself-first-self-care%2F&t=Treat%20Yourself%3A%20The%20Importance%20of%20Putting%20Yourself%20First%20%26%20Self%20Care
+10:34:12	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=76BE7D5753C0144BC70D8977066883D6
+10:34:12	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=76BE7D5753C0144BC70D8977066883D6 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D76BE7D5753C0144BC70D8977066883D6
+10:34:13	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=021CB6385D59AEE270689DB4615D7B9B
+10:34:13	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=021CB6385D59AEE270689DB4615D7B9B to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D021CB6385D59AEE270689DB4615D7B9B
+10:34:13	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=0B1685C6592C546A85B12A34A65A9796
+10:34:13	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=0B1685C6592C546A85B12A34A65A9796 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D0B1685C6592C546A85B12A34A65A9796
+10:34:23	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=EA57E108E8399D4828C1CA94ECABB5C1
+10:34:23	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=EA57E108E8399D4828C1CA94ECABB5C1 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DEA57E108E8399D4828C1CA94ECABB5C1
+10:34:24	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=84C93C51F45896315C5491E71DC075B7
+10:34:24	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=84C93C51F45896315C5491E71DC075B7 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D84C93C51F45896315C5491E71DC075B7
+10:34:25	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=6E34DC5419FCEDA397A2987DB67E2987
+10:34:25	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=6E34DC5419FCEDA397A2987DB67E2987 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D6E34DC5419FCEDA397A2987DB67E2987
+10:34:25	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=5C07A51BFF52D2147D2941A0DC0E63F2
+10:34:25	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=5C07A51BFF52D2147D2941A0DC0E63F2 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D5C07A51BFF52D2147D2941A0DC0E63F2
+10:34:35	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=202BACC697DECB37DB749801404E7688
+10:34:35	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=202BACC697DECB37DB749801404E7688 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D202BACC697DECB37DB749801404E7688
+10:34:36	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=D64D9949AF8A83833655E1BF2E1BB025
+10:34:36	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=D64D9949AF8A83833655E1BF2E1BB025 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DD64D9949AF8A83833655E1BF2E1BB025
+10:34:36	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=57F0E259590D80C7327133D3E010AB16
+10:34:36	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=57F0E259590D80C7327133D3E010AB16 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D57F0E259590D80C7327133D3E010AB16
+10:34:37	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3908
+10:34:37	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3908 to https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/
+10:34:37	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=23667FB9F1A4C970D5B5246F01DDAFC1
+10:34:37	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=23667FB9F1A4C970D5B5246F01DDAFC1 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=23667FB9F1A4C970D5B5246F01DDAFC1
+10:34:37	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=23667FB9F1A4C970D5B5246F01DDAFC1 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=23667FB9F1A4C970D5B5246F01DDAFC1
+10:34:47	Warning: 	Found for https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/?share=twitter
+10:34:47	Warning: 	File has moved from https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/?share=twitter to https://twitter.com/intent/tweet?text=5%20Tips%20to%20Better%20Manage%20Stress%20During%20the%20Holiday%20Season&url=https%3A%2F%2Fnicolearcherpsyd.com%2F5-tips-manage-stress-holiday-season%2F
+10:34:47	Warning: 	Found for https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/?share=facebook
+10:34:47	Warning: 	File has moved from https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolearcherpsyd.com%2F5-tips-manage-stress-holiday-season%2F&t=5%20Tips%20to%20Better%20Manage%20Stress%20During%20the%20Holiday%20Season
+10:34:47	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE
+10:34:47	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE
+10:34:47	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE
+10:34:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=8B06921E39C5A2E95BCADDCAAEE158CC
+10:34:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=8B06921E39C5A2E95BCADDCAAEE158CC to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D8B06921E39C5A2E95BCADDCAAEE158CC
+10:34:49	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=26EACB6A5C6352EFC912EB2F575E3A42
+10:34:49	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=26EACB6A5C6352EFC912EB2F575E3A42 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D26EACB6A5C6352EFC912EB2F575E3A42
+10:34:49	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=46E3DD5739AD7DD19B55143BDF6B2B60
+10:34:49	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=46E3DD5739AD7DD19B55143BDF6B2B60 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D46E3DD5739AD7DD19B55143BDF6B2B60
+10:34:58	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3B4B2D82E85265F036E041F5C332C690
+10:34:58	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3B4B2D82E85265F036E041F5C332C690 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D3B4B2D82E85265F036E041F5C332C690
+10:34:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:34:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:35:01	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:35:01	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=60455A7CD0DE9B1980060CB81B57D8FA to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D60455A7CD0DE9B1980060CB81B57D8FA
+10:35:01	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=A352FA013152DE7FEAD68452F49CE299
+10:35:01	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=A352FA013152DE7FEAD68452F49CE299 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DA352FA013152DE7FEAD68452F49CE299
+10:35:10	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=6E374BC5F6630661BFAE1D642747AF87
+10:35:10	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=6E374BC5F6630661BFAE1D642747AF87 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D6E374BC5F6630661BFAE1D642747AF87
+10:35:12	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=4AAA3CF32168AF89033AD92925182841
+10:35:12	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=4AAA3CF32168AF89033AD92925182841 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D4AAA3CF32168AF89033AD92925182841
+10:35:12	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=52E25ACA0642522711ED4CB43C4663B3
+10:35:12	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=52E25ACA0642522711ED4CB43C4663B3 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D52E25ACA0642522711ED4CB43C4663B3
+10:35:13	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3F0E2FBF5EC5B443B280F48B9CA77F5D
+10:35:13	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=3F0E2FBF5EC5B443B280F48B9CA77F5D to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D3F0E2FBF5EC5B443B280F48B9CA77F5D
+10:35:22	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=23667FB9F1A4C970D5B5246F01DDAFC1
+10:35:22	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=23667FB9F1A4C970D5B5246F01DDAFC1 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D23667FB9F1A4C970D5B5246F01DDAFC1
+10:35:23	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE
+10:35:23	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=551FDCB6B8AD9DC8300A21ABA5A8A7EE to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D551FDCB6B8AD9DC8300A21ABA5A8A7EE
+10:35:25	Warning: 	HTML file (616 bytes) retransferred due to lack of cache: v0.wordpress.com/
+10:35:25	Warning: 	HTML file (42777 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/feed/
+10:35:25	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/comments/feed/
+10:35:25	Warning: 	HTML file (327968 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/wp-json/
+10:35:26	Warning: 	Moved Permanently for v0.wordpress.com/
+10:35:26	Warning: 	Redirected link is identical because of 'URL Hack' option: v0.wordpress.com/ and https://v0.wordpress.com/
+10:35:26	Warning: 	File has moved from v0.wordpress.com/ to https://v0.wordpress.com/
+10:35:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2016/09/slide1-3.png?fit=1280%2C420&ssl=1
+10:35:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/6
+10:35:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2015/12/cropped-NicoleHeadshot.jpg?ssl=1
+10:35:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/01/services.png?ssl=1
+10:35:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2016/03/cropped-beach.png?ssl=1
+10:35:29	Warning: 	HTML file (40792 bytes) retransferred due to lack of cache: https://blog.gravatar.com/feed/
+10:35:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://stats.wp.com/e-202325.js
+10:35:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/01/flower.png?ssl=1
+10:35:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i2.wp.com/nicolearcherpsyd.com/wp-content/uploads/2015/12/succulent.png?fit=1280%2C420&ssl=1
+10:35:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/8
+10:35:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnicolearcherpsyd.com%2Fabout-me%2F&format=xml
+10:35:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2015/12/NicoleHeadshot.jpg
+10:35:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2015/12/NicoleHeadshot-300x242.jpg?resize=300%2C242
+10:35:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2020/02/emma-matthews-digital-content-production-O_CLjxjzN3M-unsplash-e1582240421357.jpg?fit=1772%2C1032&ssl=1
+10:35:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/2844
+10:35:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/linkedin-sales-navigator-402819-2.jpg?fit=2998%2C2334&ssl=1
+10:35:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/3862
+10:35:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/01/contact.png?fit=1280%2C420&ssl=1
+10:35:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/16
+10:35:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i1.wp.com/nicolearcherpsyd.com/wp-content/uploads/2016/03/beach.png?fit=1280%2C420&ssl=1
+10:35:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/106
+10:35:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/14
+10:35:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js?onload=wpformsRecaptchaLoad&render=explicit
+10:35:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2015/12/cropped-NicoleHeadshot.jpg?fit=300%2C300&ssl=1
+10:35:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/2659
+10:35:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/18
+10:35:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/stil-326684.jpg?fit=3024%2C3348&ssl=1
+10:35:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/02/0bdcc4bb-e4a8-4e1d-bfc0-f0524f171c3d.jpg?fit=300%2C200&ssl=1
+10:35:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/02/8eaae2a5-3fcf-4804-b1e4-90ac4977e23e.jpg?fit=246%2C300&ssl=1
+10:35:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/pages/12
+10:35:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/12/5531ce1b-6caf-408f-b458-b3b8f8f5ed3e.jpg?fit=300%2C200&ssl=1
+10:35:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/12/bethany-laird-311248.jpg?fit=300%2C240&ssl=1
+10:35:49	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/feed/
+10:35:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/d8871728-1418-4062-bcd1-25e1edb75769.jpg?fit=300%2C200&ssl=1
+10:35:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/How-to-Manage-stress-and-mental-health-while-in-graduate-school.png?fit=300%2C300&ssl=1
+10:35:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i2.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/02/b23bd4c8-43c2-4fd7-b7e1-9d9cf50cb9f0.jpg?fit=638%2C425&ssl=1
+10:35:50	Warning: 	HTML file (7033 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/general/feed/
+10:35:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i2.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/02/0bdcc4bb-e4a8-4e1d-bfc0-f0524f171c3d.jpg?fit=637%2C425&ssl=1
+10:35:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4150
+10:35:51	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/feed/
+10:35:51	Warning: 	HTML file (18532 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/anxiety/feed/
+10:35:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4132
+10:35:53	Warning: 	HTML file (872 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/feed/
+10:35:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/02/8eaae2a5-3fcf-4804-b1e4-90ac4977e23e.jpg?fit=349%2C425&ssl=1
+10:35:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4122
+10:35:55	Warning: 	HTML file (35894 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/self-esteem/feed/
+10:35:55	Warning: 	HTML file (848 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/feed/
+10:35:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnicolearcherpsyd.com%2F5-ways-to-learn-to-like-yourself-better%2F
+10:35:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i2.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/01/a9ba8cff-559b-4466-ac08-211a01ea2fbc.jpg?fit=638%2C425&ssl=1
+10:35:57	Warning: 	HTML file (914 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/feed/
+10:35:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i2.wp.com/nicolearcherpsyd.com/wp-content/uploads/2018/01/f4135d36-a7f6-4016-a1e3-2cd2d6de4d8c.jpg?fit=640%2C414&ssl=1
+10:35:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4105
+10:35:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4096
+10:35:59	Warning: 	HTML file (11857 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/depression/feed/
+10:35:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/12/5531ce1b-6caf-408f-b458-b3b8f8f5ed3e.jpg?fit=640%2C427&ssl=1
+10:36:00	Warning: 	HTML file (902 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/feed/
+10:36:00	Warning: 	HTML file (999 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/feed/
+10:36:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/12/09bed23e-270f-4cb0-8b3f-5bd89e8af86e.jpg?fit=639%2C425&ssl=1
+10:36:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4026
+10:36:01	Warning: 	HTML file (907 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/feed/
+10:36:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/12/bethany-laird-311248.jpg?fit=4047%2C3238&ssl=1
+10:36:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/4008
+10:36:03	Warning: 	HTML file (11132 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/anxiety/feed/
+10:36:03	Warning: 	HTML file (11134 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/holidays/feed/
+10:36:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/3993
+10:36:05	Warning: 	HTML file (4029 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/perfectionism/feed/
+10:36:05	Warning: 	HTML file (11130 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/stress/feed/
+10:36:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/69
+10:36:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/73
+10:36:07	Warning: 	HTML file (4017 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/therapy/feed/
+10:36:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/How-to-Manage-stress-and-mental-health-while-in-graduate-school.png?fit=1080%2C1080&ssl=1
+10:36:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/68
+10:36:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/6
+10:36:09	Warning: 	HTML file (897 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/feed/
+10:36:09	Warning: 	HTML file (13175 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/uncategorized/feed/
+10:36:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/How-to-Manage-stress-and-mental-health-while-in-graduate-school-1.png?resize=560%2C560&ssl=1
+10:36:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/3949
+10:36:11	Warning: 	HTML file (958 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/feed/
+10:36:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/nicolearcherpsyd.com/wp-content/uploads/2017/11/d8871728-1418-4062-bcd1-25e1edb75769.jpg?fit=638%2C425&ssl=1
+10:36:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/3939
+10:36:12	Warning: 	HTML file (881 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/feed/
+10:36:12	Warning: 	HTML file (8071 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/balance/feed/
+10:36:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/posts/3908
+10:36:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/xmlrpc.php?rsd
+10:36:15	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:36:17	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:36:17	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:36:17	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=9C349550011754AC328871A2A6EF72D8
+10:36:17	Error: 	"Not Found" (404) at link https://nicolearcherpsyd.com/wp-content/themes/bubbles/images/favicon.png (from https://nicolearcherpsyd.com/)
+10:36:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://nicolearcherpsyd.com/)
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s.gravatar.com/dist/css/style.mind2b6.css
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s0.wp.com/i/noticons/noticonsd2b6.css
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s.gravatar.com/js/jcarousel/lib/jquery.jcarouseld2b6.css
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s.gravatar.com/js/jcarousel/skins/tango/skind2b6.css
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s.gravatar.com/dist/css/profile.mind2b6.css
+10:36:29	Warning: 	Warning: store text/css without scan: /home/darcher/websites/nicolearcherpsyd.com/s.gravatar.com/dist/css/homepage.mind2b6.css
+10:36:29	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=8
+10:36:30	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=8
+10:36:30	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=8 to https://nicolearcherpsyd.com/about-me/
+10:36:30	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:36:31	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:36:31	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:36:31	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=5B5F675C65FEDC1AE91204DB9A60CDE5
+10:36:31	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=2844
+10:36:32	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=2844
+10:36:32	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=2844 to https://nicolearcherpsyd.com/services/
+10:36:32	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=3862
+10:36:33	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=3862
+10:36:33	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=3862 to https://nicolearcherpsyd.com/online-therapy/
+10:36:33	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=16
+10:36:34	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=16
+10:36:34	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=16 to https://nicolearcherpsyd.com/faqs/
+10:36:34	Warning: 	HTML file (779 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=106
+10:36:35	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=106
+10:36:35	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=106 to https://nicolearcherpsyd.com/fees/
+10:36:36	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=14
+10:36:37	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=14
+10:36:37	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=14 to https://nicolearcherpsyd.com/appointment-request/
+10:36:37	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=2659
+10:36:38	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=2659
+10:36:38	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=2659 to https://nicolearcherpsyd.com/recent-news/
+10:36:51	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=18
+10:36:52	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=18
+10:36:52	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=18 to https://nicolearcherpsyd.com/mental-health-links/
+10:36:52	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:36:53	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:36:53	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:36:53	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=86E9D1805150EABA599015BA97489DBE
+10:36:53	Warning: 	HTML file (47794 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/anxiety/
+10:36:54	Warning: 	HTML file (49881 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/self-esteem/
+10:36:55	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?page_id=12
+10:36:57	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?page_id=12
+10:36:57	Warning: 	File has moved from https://nicolearcherpsyd.com/?page_id=12 to https://nicolearcherpsyd.com/contact/
+10:36:57	Warning: 	HTML file (58358 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/
+10:36:58	Warning: 	HTML file (45613 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/tag/anxiety/
+10:37:00	Warning: 	HTML file (45487 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/category/uncategorized/
+10:37:02	Warning: 	HTML file (973 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=86E9D1805150EABA599015BA97489DBE
+10:37:04	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=86E9D1805150EABA599015BA97489DBE
+10:37:04	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=86E9D1805150EABA599015BA97489DBE to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D86E9D1805150EABA599015BA97489DBE
+10:37:06	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4150
+10:37:07	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4150
+10:37:07	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4150 to https://nicolearcherpsyd.com/3-common-misconceptions-about-therapy/
+10:37:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/categories/75
+10:37:08	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4132
+10:37:09	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4132
+10:37:09	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4132 to https://nicolearcherpsyd.com/3-ways-therapy-helps-you-address-anxiety/
+10:37:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/categories/72
+10:37:10	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4122
+10:37:11	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4122
+10:37:11	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4122 to https://nicolearcherpsyd.com/5-ways-to-learn-to-like-yourself-better/
+10:37:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnicolearcherpsyd.com%2F5-ways-to-learn-to-like-yourself-better%2F&format=xml
+10:37:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/categories/71
+10:37:13	Warning: 	HTML file (823 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4105
+10:37:14	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4105
+10:37:14	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4105 to https://nicolearcherpsyd.com/how-to-stop-beating-yourself-up/
+10:37:14	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4096
+10:37:15	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4096
+10:37:15	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4096 to https://nicolearcherpsyd.com/4-ways-to-change-your-thoughts-and-relieve-depression/
+10:37:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/categories/74
+10:37:16	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4026
+10:37:17	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4026
+10:37:17	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4026 to https://nicolearcherpsyd.com/5-signs-that-you-might-be-struggling-with-anxiety/
+10:37:17	Warning: 	HTML file (923 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=4008
+10:37:18	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=4008
+10:37:18	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=4008 to https://nicolearcherpsyd.com/set-yourself-up-for-success-the-importance-of-goal-setting-to-improve-self-esteem/
+10:37:18	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=3993
+10:37:19	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3993
+10:37:19	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3993 to https://nicolearcherpsyd.com/handling-perfectionism-related-anxiety-holidays/
+10:37:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/67
+10:37:20	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:37:21	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:37:21	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:37:21	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=2AF26AE7BCE32F47B409F3F4CDE9EBF8
+10:37:21	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:37:22	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:37:22	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:37:22	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=60455A7CD0DE9B1980060CB81B57D8FA
+10:37:22	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:37:23	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:37:23	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:37:23	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=A352FA013152DE7FEAD68452F49CE299
+10:37:23	Warning: 	HTML file (844 bytes) retransferred due to lack of cache: nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:37:24	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:37:24	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:37:24	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=6E374BC5F6630661BFAE1D642747AF87
+10:37:24	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=3949
+10:37:25	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3949
+10:37:25	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3949 to https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/
+10:37:25	Warning: 	HTML file (1237 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=twitter
+10:37:26	Warning: 	Found for https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=twitter
+10:37:26	Warning: 	File has moved from https://nicolearcherpsyd.com/managing-stress-mental-health-graduate-school/?share=twitter to https://twitter.com/intent/tweet?text=Managing%20Stress%20and%20Mental%20Health%20in%20Graduate%20School&url=https%3A%2F%2Fnicolearcherpsyd.com%2Fmanaging-stress-mental-health-graduate-school%2F
+10:37:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/categories/1
+10:37:27	Warning: 	HTML file (891 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=3939
+10:37:28	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3939
+10:37:28	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3939 to https://nicolearcherpsyd.com/treat-yourself-the-importance-of-putting-yourself-first-self-care/
+10:37:28	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://nicolearcherpsyd.com/?p=3908
+10:37:29	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?p=3908
+10:37:29	Warning: 	File has moved from https://nicolearcherpsyd.com/?p=3908 to https://nicolearcherpsyd.com/5-tips-manage-stress-holiday-season/
+10:37:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://nicolearcherpsyd.com/wp-json/wp/v2/tags/70
+10:37:36	Error: 	"Not Found" (404) at link https://nicolearcherpsyd.com/wp-content/themes/bubbles/images/logo.png (from https://nicolearcherpsyd.com/wp-content/themes/bubbles/style.css?ver=e58d3420b997e9b883d3bcf348fa8f79)
+10:37:36	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=999164847C192654EC0ACA30A0F8F8EC
+10:37:36	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=999164847C192654EC0ACA30A0F8F8EC and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=999164847C192654EC0ACA30A0F8F8EC
+10:37:36	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=999164847C192654EC0ACA30A0F8F8EC to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=999164847C192654EC0ACA30A0F8F8EC
+10:37:36	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=AA458DC71239C11B5C71CA1DF7376BDC
+10:37:36	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=AA458DC71239C11B5C71CA1DF7376BDC and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=AA458DC71239C11B5C71CA1DF7376BDC
+10:37:36	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=AA458DC71239C11B5C71CA1DF7376BDC to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=AA458DC71239C11B5C71CA1DF7376BDC
+10:37:36	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=C191CA3109CD62DC23FB8C6F607CBB0E
+10:37:36	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=C191CA3109CD62DC23FB8C6F607CBB0E and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=C191CA3109CD62DC23FB8C6F607CBB0E
+10:37:36	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=C191CA3109CD62DC23FB8C6F607CBB0E to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=C191CA3109CD62DC23FB8C6F607CBB0E
+10:37:36	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=FE3929DB11EBF7CCDF7F9CDD623094C8
+10:37:36	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=FE3929DB11EBF7CCDF7F9CDD623094C8 and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=FE3929DB11EBF7CCDF7F9CDD623094C8
+10:37:36	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=FE3929DB11EBF7CCDF7F9CDD623094C8 to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=FE3929DB11EBF7CCDF7F9CDD623094C8
+10:37:47	Warning: 	Moved Permanently for nicolearcherpsyd.com/?wordfence_lh=1&hid=1075E02B3B5A3C2323DDC302DF160FBD
+10:37:47	Warning: 	Redirected link is identical because of 'URL Hack' option: nicolearcherpsyd.com/?wordfence_lh=1&hid=1075E02B3B5A3C2323DDC302DF160FBD and https://nicolearcherpsyd.com/?wordfence_lh=1&hid=1075E02B3B5A3C2323DDC302DF160FBD
+10:37:47	Warning: 	File has moved from nicolearcherpsyd.com/?wordfence_lh=1&hid=1075E02B3B5A3C2323DDC302DF160FBD to https://nicolearcherpsyd.com/?wordfence_lh=1&hid=1075E02B3B5A3C2323DDC302DF160FBD
+10:37:47	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=999164847C192654EC0ACA30A0F8F8EC
+10:37:47	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=999164847C192654EC0ACA30A0F8F8EC to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D999164847C192654EC0ACA30A0F8F8EC
+10:37:47	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=AA458DC71239C11B5C71CA1DF7376BDC
+10:37:47	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=AA458DC71239C11B5C71CA1DF7376BDC to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DAA458DC71239C11B5C71CA1DF7376BDC
+10:37:48	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=C191CA3109CD62DC23FB8C6F607CBB0E
+10:37:48	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=C191CA3109CD62DC23FB8C6F607CBB0E to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DC191CA3109CD62DC23FB8C6F607CBB0E
+10:37:59	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=FE3929DB11EBF7CCDF7F9CDD623094C8
+10:37:59	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=FE3929DB11EBF7CCDF7F9CDD623094C8 to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3DFE3929DB11EBF7CCDF7F9CDD623094C8
+10:38:00	Warning: 	Moved Permanently for https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=1075E02B3B5A3C2323DDC302DF160FBD
+10:38:00	Warning: 	File has moved from https://nicolearcherpsyd.com/?wordfence_lh=1%26hid=1075E02B3B5A3C2323DDC302DF160FBD to https://nicolearcherpsyd.com/?wordfence_lh=1%26hid%3D1075E02B3B5A3C2323DDC302DF160FBD
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 55 seconds : 495 links scanned, 443 files written (28332106 bytes overall) [17961249 bytes received at 30186 bytes/sec], 6259712 bytes transferred using HTTP compression in 259 files, ratio 30%, 1.9 requests per connection
+(7 errors, 523 warnings, 0 messages)
